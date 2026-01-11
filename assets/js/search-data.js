@@ -429,6 +429,11 @@ ninja.data = [{
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
+            },},{id: "projects-4-dof-legged-robot",
+          title: '4-DoF Legged Robot',
+          description: "4-DoF legged robot using differential gears mechanism",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4dof-legged/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
@@ -454,11 +459,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-hexapod",
-          title: 'Hexapod',
-          description: "Hexapod robot",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/hexapod/";
             },},{id: "projects-mini-pongbot",
           title: 'mini-Pongbot',
           description: "Mini-size Quadruped robot",

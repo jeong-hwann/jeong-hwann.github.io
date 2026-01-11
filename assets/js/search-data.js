@@ -462,11 +462,11 @@ ninja.data = [{
           window.open("mailto:%6A%61%6E%67%39%39%30%36%30%38@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://www.linkedin.com/in/정환-장-709987387", "_blank");
         },
       },{
       id: 'light-theme',

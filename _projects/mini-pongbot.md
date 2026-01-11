@@ -2,7 +2,7 @@
 layout: page
 title: mini-Pongbot
 description: Mini-size Quadruped robot
-img: assets/img/minipongbot_thumb.jpg
+img: assets/img/mini-pongbot.png
 importance: 3
 category: legged-robot
 ---

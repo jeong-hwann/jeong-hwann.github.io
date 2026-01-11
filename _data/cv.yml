@@ -2,96 +2,61 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Jeong-Hwan Jang
     - name: Date of Birth
-      value: 14th March 1879
+      value: 8th June 1999
     - name: Languages
-      value: English, German
+      value: Korean (Native), English (OPIc IL)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.S. in Mechanical System Engineering
+      institution: Kookmin University, Seoul, Korea
+      year: 2024 ~ 2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Robotics and Control Laboratory (RCLab)
+        
+    - title: B.S. in Mechanical Engineering
+      institution: Korea National University of Transportation, Korea
+      year: 2018 ~ 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Robotics and Vision Laboratory (ROVI)
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Researcher
+      institution: Robotics and Control Laboratory (RCLab), Kookmin University
+      year: 2024–2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Mechanical design, control, and experimental validation for legged robots.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Mechanical Design / CAE
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - SolidWorks, Inventor, AutoCAD, Ansys
+    - title: Programming
       items:
-        - Description 1.
-        - Description 2.
+        - C++, Python, MATLAB
+    - title: Robotics / Simulation
+      items:
+        - ROS, Gazebo, MuJoCo, Isaac Gym
 
-- title: Other Interests
-  type: list
+- title: Projects
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: mini-Pongbot
+      year: 2023
+      description:
+        - Quadruped platform; leg design contribution.
+    - title: 4-DoF Legged Robot (LCRM)
+      year: 2024
+      description:
+        - Hexapod platform; leg design, gait trajectory generation, posture controller.
+    - title: RUBI
+      year: 2025
+      description:
+        - Waterproof biped robot developed end-to-end (mechanical design to control).

@@ -4,7 +4,7 @@
     "label": "Robotics Engineer",
     "image": "/assets/img/jjh_pic.jpg",
     "email": "jang990608@gmail.com",
-    "phone": "(+82) 10 3629-6613",
+    "phone": "+82-10-3629-6613",
     "url": "https://jeong-hwann.github.io",
     "summary": "Robotics engineer focusing on the mechanical design and control of legged robots.",
     "location": {
@@ -125,17 +125,16 @@
   "awards": [
     {
       "title": "Special Award – 2022 STEAMCUP OpenRB-150 CONTEST",
-      "date": "2022-11-01",
+      "date": "2022-11",
       "awarder": "STEAMCUP, ROBOTIS",
-      "summary": "Development a 6-legged robot using Dynamixel XL-330-M288-T actuators and an OpenRB-150 controller."
+      "summary": "Development of a 6-legged robot using Dynamixel XL-330-M288-T actuators and an OpenRB-150 controller."
     }
   ],
   "certificates": [
     {
       "name": "Computer Specialist in Spreadsheet & Database, Level-1",
-      "date": "",
-      "issuer": "",
-      "url": ""
+      "date": "2021-09",
+      "issuer": "The Korea Chamber of Commerce & Industry",
     }
   ],
   "interests": [

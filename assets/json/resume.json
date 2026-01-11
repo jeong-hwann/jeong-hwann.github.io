@@ -130,16 +130,20 @@
       ]
     }
   ],
-  "languages": [
+  "awards": [
     {
-      "language": "Korean",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
+      "title": "Special Award – 2022 STEAMCUP OpenRB-150 CONTEST",
+      "date": "2022-11-01",
+      "awarder": "STEAMCUP, ROBOTIS",
+      "summary": "Development a 6-legged robot using Dynamixel XL-330-M288-T actuators and an OpenRB-150 controller."
+    }
+  ],
+  "certificates": [
     {
-      "language": "English",
-      "fluency": "OPIc IL",
-      "icon": ""
+      "name": "Computer Specialist in Spreadsheet & Database, Level-1",
+      "date": "",
+      "issuer": "",
+      "url": ""
     }
   ],
   "interests": [
@@ -154,6 +158,18 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Korean",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "OPIc IL",
+      "icon": ""
     }
   ],
   "publications": [

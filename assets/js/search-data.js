@@ -459,6 +459,11 @@ ninja.data = [{
           description: "Hexapod robot",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hexapod/";
+            },},{id: "projects-mini-pongbot",
+          title: 'mini-Pongbot',
+          description: "Mini-size Quadruped robot",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mini-pongbot/";
             },},{id: "projects-rubi",
           title: 'RUBI',
           description: "Robust walking and Underwater capable BIpedal robot",

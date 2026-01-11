@@ -6,3 +6,5 @@ img: assets/img/rubi.png
 importance: 1
 category: robotics
 ---
+
+RUBI project page (WIP).

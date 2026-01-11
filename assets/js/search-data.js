@@ -424,11 +424,6 @@ ninja.data = [{
           description: "Robust walking and Underwater capable BIpedal robot",
           section: "Projects",handler: () => {
               window.location.href = "/projects/rubi/";
-            },},{id: "projects-zzz-test-project",
-          title: 'ZZZ Test Project',
-          description: "If you can see this card, the projects collection is working.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/zzz-test/";
             },},{
         id: 'social-email',
         title: 'email',

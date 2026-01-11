@@ -2,7 +2,7 @@
 layout: page
 title: 4-DoF Legged Robot
 description: 4-DoF legged robot using differential gears mechanism
-img: assets/img/lcrm_thumb.jpg
+img: assets/img/4-dof-legged-robot.png
 importance: 2
 category: legged-robot
 ---

@@ -16,7 +16,7 @@
         "network": "LinkedIn",
         "username": "정환-장-709987387",
         "url": "https://www.linkedin.com/in/%EC%A0%95%ED%99%98-%EC%9E%A5-709987387/"
-      }
+      },
       {
         "network": "YouTube",
         "username": "장정환-o5w",
@@ -51,7 +51,7 @@
       "endDate": "2026-02",
       "summary": "Research on legged robotics with an emphasis on mechanical design, control, simulation, and experimental validation.",
       "highlights": ["RUBI"]
-    }
+    },
     {
       "name": "NAVER LABS",
       "position": "Robotics Hardware Assembly & Integration Support (Part-time)",
@@ -63,42 +63,34 @@
         "Supported assembly and integration tasks for robot platforms"]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
   "projects": [
     {
       "name": "RUBI",
-      "description": "Waterproof biped robot developed end-to-end (mechanical design to control).",
+      "description": "Development of a waterproof bipedal robot for extending operation to water-exposed environments.",
       "keywords": [
-        "Biped",
-        "Waterproof Design",
+        "Bipedal",
         "Mechanical Design",
-        "Control",
+        "Waterproof Design",
+        "Reinforcement Learning-based Control",
         "Experimental Validation"
       ]
     },
     {
       "name": "mini-Pongbot",
-      "description": "Mini-size quadruped robot (leg design contribution).",
+      "description": "Mini-size quadrupedal robot.",
       "keywords": [
-        "Quadruped",
-        "Leg Design"
+        "Quadrupedal",
+        "Leg Kinematic Design"
       ]
     },
     {
-      "name": "4-DoF Legged Robot (LCRM)",
-      "description": "Legged robot platform (leg design, gait trajectory generation, posture control).",
+      "name": "4-DoF Legged Robot",
+      "description": "Legged robot platform using differential gear mechanism.",
       "keywords": [
         "Legged Robot",
-        "Gait",
-        "Posture Control"
+        "Differential Gear Mechanism",
+        "Gait Trajectory Generator",
+        "Model-based Control"
       ]
     }
   ],
@@ -148,15 +140,14 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Legged Robotics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Mechanism Design",
+        "Sealing Design (O-rings)",
+        "IP-rated Hardware",
+        "Reinforcement Learning-based Control",
+        "Sim-to-Real"
       ]
     }
   ],

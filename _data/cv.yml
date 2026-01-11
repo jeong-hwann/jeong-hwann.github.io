@@ -26,18 +26,18 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Graduate Researcher
+      institution: Robotics and Control Laboratory (RCLab), Kookmin University
+      year: 2024–2025
+      description:
+        - Mechanical design, control, and experimental validation for legged robots.
+        
     - title: Robotics Hardware Assembly & Integration
       institution: NAVER LABS, Korea
       year: 2022
       description:
         - Robot hardware assembly and integration support.
         - Assisted with mechanical module setup, wiring, and basic functional checks.
-        
-    - title: Graduate Researcher
-      institution: Robotics and Control Laboratory (RCLab), Kookmin University
-      year: 2024–2025
-      description:
-        - Mechanical design, control, and experimental validation for legged robots.
 
 - title: Skills
   type: nested_list
@@ -55,15 +55,15 @@
 - title: Projects
   type: time_table
   contents:
-    - title: mini-Pongbot
-      year: 2023
-      description:
-        - Quadruped platform; leg design contribution.
-    - title: 4-DoF Legged Robot (LCRM)
-      year: 2024
-      description:
-        - Hexapod platform; leg design, gait trajectory generation, posture controller.
     - title: RUBI
       year: 2025
       description:
         - Waterproof biped robot developed end-to-end (mechanical design to control).
+    - title: 4-DoF Legged Robot (LCRM)
+      year: 2024
+      description:
+        - Hexapod platform; leg design, gait trajectory generation, posture controller.
+    - title: mini-Pongbot
+      year: 2023
+      description:
+        - Quadruped platform; leg design contribution.

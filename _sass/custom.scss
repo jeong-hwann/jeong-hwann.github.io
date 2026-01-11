@@ -1,0 +1,19 @@
+/* Project cards: unify thumbnail ratio */
+.projects .card-img-top,
+.project-card .card-img-top,
+.card.project .card-img-top {
+  width: 100%;
+  aspect-ratio: 3 / 4;   /* 비율 통일 */
+  object-fit: contain;      /* 꽉 채우고 넘치는 부분은 크롭 */
+  object-position: center;
+  display: block;
+}
+
+/* aspect-ratio가 잘 안 먹는 환경 대비(선택) */
+@supports not (aspect-ratio: 16 / 9) {
+  .projects .card-img-top,
+  .project-card .card-img-top,
+  .card.project .card-img-top {
+    height: 220px;
+  }
+}

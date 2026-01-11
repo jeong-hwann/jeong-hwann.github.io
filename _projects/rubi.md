@@ -4,7 +4,7 @@ title: RUBI
 description: Robust walking and Underwater capable BIpedal robot
 img: assets/img/rubi.png
 importance: 1
-category: robotics
+category: work
 ---
 
 RUBI project page (WIP).

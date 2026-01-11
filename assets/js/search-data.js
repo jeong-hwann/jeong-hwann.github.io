@@ -434,16 +434,6 @@ ninja.data = [{
           description: "4-DoF legged robot using differential gears mechanism",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4dof-legged/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{id: "projects-mini-pongbot",
           title: 'mini-Pongbot',
           description: "Mini-size Quadruped robot",

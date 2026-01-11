@@ -26,6 +26,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Robotics Hardware Assembly & Integration
+      institution: NAVER LABS, Korea
+      year: 2022
+      description:
+        - Robot hardware assembly and integration support.
+        - Assisted with mechanical module setup, wiring, and basic functional checks.
+        
     - title: Graduate Researcher
       institution: Robotics and Control Laboratory (RCLab), Kookmin University
       year: 2024–2025

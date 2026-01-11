@@ -2,10 +2,10 @@
   "basics": {
     "name": "Jeong-Hwan Jang",
     "label": "Robotics Engineer",
-    "image": "",
+    "image": "/assets/img/jjh_pic.jpg",
     "email": "jang990608@gmail.com",
     "phone": "(+82) 10 3629-6613",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "url": "https://jeong-hwann.github.io",
     "summary": "Robotics engineer focusing on the mechanical design and control of legged robots.",
     "location": {
       "countryCode": "KR",

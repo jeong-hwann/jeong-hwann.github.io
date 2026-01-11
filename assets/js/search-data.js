@@ -454,6 +454,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-rubi",
+          title: 'RUBI',
+          description: "Robust walking and Underwater capable BIpedal robot",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/rubi/";
             },},{
         id: 'social-email',
         title: 'email',

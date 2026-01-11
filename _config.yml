@@ -44,15 +44,6 @@ external_services:
   github_profile_trophy_url: https://github-profile-trophy.vercel.app
 
 # -----------------------------------------------------------------------------
-# Header Pages
-# -----------------------------------------------------------------------------
-header_pages:
-  - _pages/about.md
-  - _pages/projects.md
-  - _pages/publications.md
-  - _pages/cv.md
-
-# -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
 # will use title and url fields
